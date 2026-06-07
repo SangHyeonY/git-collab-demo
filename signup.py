@@ -1,2 +1,2 @@
-def signup():
-    pass
+def signup(name,email):
+    return True
